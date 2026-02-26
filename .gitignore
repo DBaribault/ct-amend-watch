@@ -14,6 +14,8 @@ venv/
 
 # Local runtime state
 state.json
+logs/
+*.lock
 
 # Editor cruft
 .DS_Store
